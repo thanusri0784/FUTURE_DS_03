@@ -25,9 +25,9 @@ This project analyzes a marketing campaign dataset to understand customer conver
 
 ## Dashboard Preview
 
-![Marketing Funnel Dashboard](dashboard.png)
+![Marketing Funnel Dashboard](Screenshort_Dashboard.png)
 
 ## Files Included
 - Marketing_Funnel_Analysis_Dashboard.xlsx
-- Dashboard Screenshot
+- Screenshot Dashboard.png
 - README.md
